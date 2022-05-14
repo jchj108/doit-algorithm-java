@@ -20,7 +20,7 @@
 
 1. 체인법
 
-![image](https://user-images.githubusercontent.com/75921378/168403394-3c2df2a6-6d61-468c-93a7-7c7dda450436.png)
+![image](https://user-images.githubusercontent.com/75921378/168403523-94461731-1c27-46cd-a043-7f99783c1a77.png)
 - 같은 해시 값을 갖는 요소를 연결 리스트로 관리한다
 
 2. 오픈 주소법
