@@ -3,4 +3,3 @@
 해시법은 검색과 더불어 데이터의 추가와 삭제도 효율적으로 수행할 수 있는 방법이다.
 정렬된 배열에 새로운 값을 추가하려면, 먼저 삽입할 위치를 찾은 후 위치 이후의 값들을 한칸씩 밀고 삽입해야한다.
 
-https://velog.velcdn.com/images%2Fdoforme%2Fpost%2Fdf248ac2-f673-4510-ade9-3bd1cf35b167%2Fimage.png
