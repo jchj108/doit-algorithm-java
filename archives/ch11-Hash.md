@@ -18,12 +18,12 @@
 
 ### 충돌에 대한 대처
 
-### 체인법
+1. 체인법
 
 ![image](https://user-images.githubusercontent.com/75921378/168403394-3c2df2a6-6d61-468c-93a7-7c7dda450436.png)
 - 같은 해시 값을 갖는 요소를 연결 리스트로 관리한다
 
-### 오픈 주소법
+2. 오픈 주소법
 
 ![image](https://user-images.githubusercontent.com/75921378/168403406-230d94e4-aee8-43bf-9cfd-0ec9fdf60a43.png)
 - 충돌이 발생했을 때 재해시를 수행하여 비어 있는 버킷을 찾아내는 방법으로, 닫힌 해시법이라고 한다.
